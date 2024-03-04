@@ -1,6 +1,6 @@
 program prueba;
 
 begin
-  write('hola mundo');
+  writeln('hola mundo');
   readln;
 end.
